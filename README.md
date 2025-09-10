@@ -1,2 +1,2 @@
 # ravihms
-Health Management System
+Hospital Management System
